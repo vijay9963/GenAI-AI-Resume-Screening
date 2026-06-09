@@ -1,0 +1,14 @@
+John Doe
+
+Skills:
+Python, Machine Learning, Deep Learning, Pandas, NumPy, Scikit-learn, Flask, SQL
+
+Experience:
+Built multiple ML projects including resume screening system and sentiment analysis.
+
+Education:
+B.Tech in Computer Science
+
+Projects:
+- AI Resume Screening System using LangChain and Gemini
+- Stock Price Prediction using LSTM

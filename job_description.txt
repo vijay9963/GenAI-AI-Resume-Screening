@@ -1,0 +1,12 @@
+We are hiring a Python Developer with experience in:
+
+- Python
+- Machine Learning
+- SQL
+- Pandas
+- Scikit-learn
+- Flask
+- APIs
+- Data Analysis
+
+Candidate should have strong problem-solving skills and experience in building AI/ML projects.
