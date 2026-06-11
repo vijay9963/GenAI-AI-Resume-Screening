@@ -1,8 +1,7 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
-from prompts.templates import extraction_prompt
 from dotenv import load_dotenv
 import os
-
+from templates import extraction_prompt
 load_dotenv()
 
 # 🔥 THIS IS WHERE YOUR CODE GOES
