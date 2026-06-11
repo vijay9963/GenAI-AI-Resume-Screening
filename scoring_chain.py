@@ -1,5 +1,5 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
-from prompts.templates import scoring_prompt
+from templates import scoring_prompt
 from dotenv import load_dotenv
 import os
 
