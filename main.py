@@ -1,11 +1,12 @@
+from extraction_chain import extraction_chain
+from scoring_chain import scoring_chain
 import json
 import re
 import streamlit as st
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
-from chains.scoring_chain import scoring_chain
-from chains.extraction_chain import extraction_chain
+
 
 # -------------------------
 # 🎯 APP TITLE
